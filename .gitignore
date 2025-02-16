@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Environment-specific files
+.env
+*.env
+*.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# API keys and sensitive information
+apikey.py
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Streamlit cache
+.streamlit/
